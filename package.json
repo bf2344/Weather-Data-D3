@@ -1,0 +1,23 @@
+{
+  "name": "weather-data-d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "d3.v5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bf2344/Weather-Data-D3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bf2344/Weather-Data-D3/issues"
+  },
+  "homepage": "https://github.com/bf2344/Weather-Data-D3#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
